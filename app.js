@@ -2,7 +2,7 @@
 //
 // Feb 12, 2025
 // yosuke.sawamura@zoom.us
-// Workvivo Chatbot demo 
+// Workvivo Chatbot sample demo 
 //
 // node v20.17.0
 // npm 11.0.0
