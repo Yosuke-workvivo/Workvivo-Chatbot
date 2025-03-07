@@ -16,7 +16,7 @@ IMAGEURL= <i>YOUR WEB SERVER PATH TO PUBLIC DIRECTORY</i> <br>
 WORKVIVOID= <i>YOUR ORGANIZATION WROKVIVO ID</i> <br>
 WORKVIVOTOKEN= <i>YOUR WORKVIVO API BEARER TOKEN</i> <br>
 ....<br><br>
-2. Make sure app.js (this) and package.json is present in the same directory.<br><br>
+2. Make sure app.js and package.json are in the same directory.<br><br>
  $ npm install<br>
   <br>
 3. Run the script<br>
