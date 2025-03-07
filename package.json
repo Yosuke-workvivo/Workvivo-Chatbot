@@ -1,7 +1,7 @@
 {
-    "name": "workvivo-webhook",
+    "name": "workvivo-chatbot",
     "version": "1.0.0",
-    "description": "Workvivo Webhook demo",
+    "description": "Workvivo Chabot sample demo",
     "main": "app.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
