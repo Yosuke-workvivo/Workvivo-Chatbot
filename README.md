@@ -2,8 +2,8 @@
 <p>
   <b>Note:</b><br><br>
   This node server was tested on a secured web proxy environment.<br>
-  Chatbot will requires to be communication over secured https communication.<br>
-  Before running, either modify app.js to use ssl certificate or place it behind a https capable reverse proxy. 
+  Chatbot requires secured https communication.<br>
+  Before running, either modify app.js to use ssl certificate or place it behind a https capable environment (e.g. https reverse proxy). 
 </p>
 
 
@@ -35,6 +35,6 @@ https://support.workvivo.com/hc/en-gb/articles/23790354570013-Chat-Bots-Alpha-Re
 Bots (guide includes the API method)<br>
 https://developer.workvivo.com/#6bde2e09-95dc-48ac-8686-b5c29dbe347c
 
-API Authentication - Bearer Token (guide requirements to use API)<br>
+API Authentication - Bearer Token (guide includes requirements to use API)<br>
 https://support.workvivo.com/hc/en-gb/articles/24560593493661-API-Authentication-Bearer-Token
 </p>
