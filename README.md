@@ -2,8 +2,8 @@
 <p>
   Note:<br><br>
   This node server was tested on a secured web proxy environment.<br>
-  Chat bot will require to be running on https communication.
-  To do so either modify app.js to use ssl certificate or place it behind a https capable reverse proxy. 
+  Chatbot will requires to be communication over secured https communication.<br>
+  To do so, either modify app.js to use ssl certificate or place it behind a https capable reverse proxy. 
 </p>
 
 
