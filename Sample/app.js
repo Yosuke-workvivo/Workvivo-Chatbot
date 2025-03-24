@@ -24,8 +24,8 @@ const path = require('path');
 const axios = require('axios');
 const app = express();
 const port = process.env.PORT || 8991;
-const JWToken = '188|d5478177c010d4e6b5f73c6b0b475d60439fcd0f';
-const WORKVIVO_ID = 3307;
+const JWToken = '<YOUR WORKVIVO API JWT>';
+const WORKVIVO_ID = <YOUR WORKVIVO ID>;
 
 
 // Middleware to parse JSON bodies
