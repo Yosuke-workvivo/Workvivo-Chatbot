@@ -1,7 +1,7 @@
 # Workvivo-Chatbot
 <p>
   <b>Note:</b><br><br>
-  This node server was tested on a secured web proxy environment.<br>
+  This node.js server was tested on a secured web proxy environment.<br>
   Chatbot requires secured https communication.<br>
   Before running, either modify app.js to use ssl certificate or place it behind a https capable environment (e.g. https reverse proxy). 
 </p>
