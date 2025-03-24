@@ -6,6 +6,7 @@
   Before running, either modify app.js to use ssl certificate or place it behind a https capable environment (e.g. https reverse proxy). 
 </p>
 
+<br>
 
 <p>
 <b>To Do:</b><br><br>
@@ -22,12 +23,25 @@ WORKVIVOTOKEN= <i>YOUR WORKVIVO API BEARER TOKEN</i> <br>
 3. Run the script<br>
   <br>
  $ node app.js<br>
-   or<br>
- $ pm2 start app.js --name "Workvivo-Chatbot"<br><br>
 </p>
 
+<br>
+
 <p>
-<b>Workvivo Support Documents:</b>
+  <b>Other Tips:</b><br><br>
+  To programmatically create chatbot thread and send text messages without having the user initial interaction.
+  <br>
+  https://github.com/Yosuke-workvivo/Workvivo-Chatbot/Sample<br>
+  <br>
+  <I>Note)</I>I Below includes a sample to have the chatbot retrieve the chatbot channel_url required to send messages without users interaction.<br>
+  - User ID can be retrieved using "Users" API. (e.g. GET Get a single user by email | https://developer.workvivo.com/#affd94d1-49cb-4891-880c-72f822f9b3a5)<br>
+  - Bot User ID can be retrieved using "Chat" API. (e.g. GET Get a collection of chat bots | https://developer.workvivo.com/#16946ff7-e4f2-4e95-969e-fbe30ef81791)<br>
+</p>
+
+<br>
+
+<p>
+<b>Workvivo Support Documents:</b><br><br>
 
 Chat Bots (guide to configure your chatbot infrastructure)<br>
 https://support.workvivo.com/hc/en-gb/articles/23790354570013-Chat-Bots-Alpha-Release
