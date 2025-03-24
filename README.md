@@ -31,7 +31,7 @@ WORKVIVOTOKEN= <i>YOUR WORKVIVO API BEARER TOKEN</i> <br>
   <b>Other Tips:</b><br><br>
   Below includes an example to programmatically create chatbot thread and send text messages without user initial interaction.<br>
   <br>
-  https://github.com/Yosuke-workvivo/Workvivo-Chatbot/Sample<br>
+  https://github.com/Yosuke-workvivo/Workvivo-Chatbot/tree/main/Sample<br>
   <br>
   <I>Note)</I><br>
    - <b>User ID</b> can be retrieved using "Users" API. (e.g. GET Get a single user by email | https://developer.workvivo.com/#affd94d1-49cb-4891-880c-72f822f9b3a5)<br>
