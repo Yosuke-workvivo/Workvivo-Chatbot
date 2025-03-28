@@ -114,7 +114,7 @@ async function handleWebhook(req, res) {
                 { label: "IT Help", message: "IT Help" },
                 { label: "HR Help", message: "HR Help" },
                 { label: "Other", message: "Other" },
-                { label: "yahoo", message: "https://www.yahoo.co.jp/" },
+                { label: "Yahoo", link: "https://www.yahoo.co.jp/" },
               ]
             }]
           };
